@@ -2,7 +2,7 @@
 > ### 19 лет, Томск
 > ### ТГУ, Высшая IT-школа, 2 курс
 > :telephone: +79138706207  
-> :e-mail: vladimirmynka34821@gmail.com
+> :e-mail: vladimirmynka34821@gmail.com  
 > ![Это я!](./3H69ZHCivSk2.jpg)
 
 
