@@ -1,8 +1,8 @@
 > # Мынка Владимир Александрович
 > ### 19 лет, Томск
 > ### ТГУ, Высшая IT-школа, 2 курс
-> +79138706207  
-> vladimirmynka34821@gmail.com
+> :telephone: +79138706207  
+> :e-mail: vladimirmynka34821@gmail.com
 > ![Это я!](./3H69ZHCivSk2.jpg)
 
 
