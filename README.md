@@ -29,4 +29,4 @@
 - Несколько раз пробовал себя в роли `тимлида` в различных проектах, сейчас `руковожу разработкой социальной сети`.
 - Знаком с языками разметки `LaTeX`, `Markdown`
 
-Наша тетрадь на `Kaggle`, с которой мы участвовали в соревновании на интенсиве ШИФТ: https://www.kaggle.com/vladimirmynka/eda-and-model-by-vladimir-and-edward
+Наша тетрадь на `Kaggle`, с которой мы участвовали в соревновании на интенсиве ШИФТ: [тык](https://www.kaggle.com/vladimirmynka/eda-and-model-by-vladimir-and-edward)
