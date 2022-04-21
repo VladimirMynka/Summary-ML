@@ -9,12 +9,15 @@
 </p>
 
 ---
+
 **Навыки:**
 * Python: `numpy`, `pandas`, `matplotlib`, `pillow`, `scikit-learn` 
 * Среды программирования: `jupyter`, `google colab`, `Kaggle`
 * СУБД и СХД: `PostgreSQL`, реляционные БД `Oracle`, `MySQL`. Из  `NoSQL` - `Neo4j`, знаком с другими моделями
 * Языки программирования: `Python`, `C++`, `C#`, `Kotlin`, `Java`, `JavaScript`, `TypeScript`, `PHP`
 * Английский: `B1`
+
+
 ---
 
 **Опыт работы:**
